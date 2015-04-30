@@ -7,7 +7,6 @@ module.exports = function(grunt) {
 			dist: {
 				src: [
 					'src/config.js',
-					'src/private_methods.js',
 					'tmp/templates.js',
 					'src/init.js',
 					'src/Collections/*.js',
